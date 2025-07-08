@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-practice-challenges/static/css/main.fc5c2c69.css",
+    "main.js": "/react-practice-challenges/static/js/main.e90caeaf.js",
+    "index.html": "/react-practice-challenges/index.html",
+    "main.fc5c2c69.css.map": "/react-practice-challenges/static/css/main.fc5c2c69.css.map",
+    "main.e90caeaf.js.map": "/react-practice-challenges/static/js/main.e90caeaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.e90caeaf.js"
+  ]
+}
