@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# React Practice Challenges 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains **10 beginner-friendly React.js practice components**.  
+Each one focuses on core concepts like `useState`, props, events, conditional rendering, and component composition.
 
-## Available Scripts
+**Live Demo:**  
+Link -> [View the Live App](https://muhammadshoaib20.github.io/react-practice-challenges)
 
-In the project directory, you can run:
+##  App Screenshot
 
-### `npm start`
+![React Practice Preview](./images/1-10-Practise.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+##  List of Challenges
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1.   Greeting Component (props)
+2.   Dynamic Age Display (useState)
+3.   Input Tracker (useState with live updates)
+4.   Toggle Visibility (Show/Hide paragraph)
+5.   Multiple Buttons (Increase/Decrease with one state)
+6.   Fruit List (props + list rendering)
+7.   Even or Odd Checker (input + conditional logic)
+8.   Color Changer (text color switch using buttons)
+9.   Simple Form Submit (name/email with message)
+10.  UserCard Component (props + card layout)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##  Tech Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React.js
+- JavaScript (ES6+)
+- JSX
+- CSS
+- Git & GitHub
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+##  How to Run Locally
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+git clone https://github.com/MuhammadShoaib20/react-practice-challenges.git
+cd react-practice-challenges
+npm install
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+##  Deployment
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is deployed using **GitHub Pages** with the help of the `gh-pages` package.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🔧 Steps to Deploy
 
-### Code Splitting
+```bash
+npm install
+npm run build
+npm run deploy
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+###  Live App
 
-### Making a Progressive Web App
+[https://MuhammadShoaib20.github.io/react-practice-challenges](https://MuhammadShoaib20.github.io/react-practice-challenges)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Author
 
-### Deployment
+👤 **Muhammad Shoaib**  
+💼 [GitHub Profile](https://github.com/MuhammadShoaib20)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## ⭐️ Give it a Star
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you found this repository helpful, consider giving it a ⭐ on GitHub.
+It helps others discover it and motivates me to build more cool stuff!
+
+
+🌟 [Star this repo](https://github.com/MuhammadShoaib20/react-practice-challenges)
+
+
